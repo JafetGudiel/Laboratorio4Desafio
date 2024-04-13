@@ -1,0 +1,7 @@
+C:\Users\TF049\Documents\clases cursos C#\DesafioInterfaz\DesafioInterfaz\bin\Debug\DesafioInterfaz.exe.config
+C:\Users\TF049\Documents\clases cursos C#\DesafioInterfaz\DesafioInterfaz\bin\Debug\DesafioInterfaz.exe
+C:\Users\TF049\Documents\clases cursos C#\DesafioInterfaz\DesafioInterfaz\bin\Debug\DesafioInterfaz.pdb
+C:\Users\TF049\Documents\clases cursos C#\DesafioInterfaz\DesafioInterfaz\obj\Debug\DesafioInterfaz.csproj.AssemblyReference.cache
+C:\Users\TF049\Documents\clases cursos C#\DesafioInterfaz\DesafioInterfaz\obj\Debug\DesafioInterfaz.csproj.CoreCompileInputs.cache
+C:\Users\TF049\Documents\clases cursos C#\DesafioInterfaz\DesafioInterfaz\obj\Debug\DesafioInterfaz.exe
+C:\Users\TF049\Documents\clases cursos C#\DesafioInterfaz\DesafioInterfaz\obj\Debug\DesafioInterfaz.pdb

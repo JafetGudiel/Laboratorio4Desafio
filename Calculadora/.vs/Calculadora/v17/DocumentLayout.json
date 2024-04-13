@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TF049\\Documents\\clases cursos C#\\Laboratorio 4 Desafios\\Calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D05C83C7-D94D-43CF-94A9-F37A2871FD30}|Calculadora\\Calculadora.csproj|c:\\users\\tf049\\documents\\clases cursos c#\\laboratorio 4 desafios\\calculadora\\calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05C83C7-D94D-43CF-94A9-F37A2871FD30}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05C83C7-D94D-43CF-94A9-F37A2871FD30}|Calculadora\\Calculadora.csproj|C:\\Users\\TF049\\Documents\\clases cursos C#\\Laboratorio 4 Desafios\\Calculadora\\calculadora\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05C83C7-D94D-43CF-94A9-F37A2871FD30}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05C83C7-D94D-43CF-94A9-F37A2871FD30}|Calculadora\\Calculadora.csproj|C:\\Users\\TF049\\Documents\\clases cursos C#\\Laboratorio 4 Desafios\\Calculadora\\calculadora\\calculadoracientifica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05C83C7-D94D-43CF-94A9-F37A2871FD30}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\calculadoracientifica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculadoraCientifica.cs",
+              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\clases cursos C#\\Laboratorio 4 Desafios\\Calculadora\\Calculadora\\CalculadoraCientifica.cs",
+              "RelativeDocumentMoniker": "Calculadora\\CalculadoraCientifica.cs",
+              "ToolTip": "C:\\Users\\TF049\\Documents\\clases cursos C#\\Laboratorio 4 Desafios\\Calculadora\\Calculadora\\CalculadoraCientifica.cs",
+              "RelativeToolTip": "Calculadora\\CalculadoraCientifica.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowBIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T01:59:16.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\clases cursos C#\\Laboratorio 4 Desafios\\Calculadora\\Calculadora\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\TF049\\Documents\\clases cursos C#\\Laboratorio 4 Desafios\\Calculadora\\Calculadora\\Calculadora.cs",
+              "RelativeToolTip": "Calculadora\\Calculadora.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T01:47:18.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\clases cursos C#\\Laboratorio 4 Desafios\\Calculadora\\Calculadora\\Program.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Program.cs",
+              "ToolTip": "C:\\Users\\TF049\\Documents\\clases cursos C#\\Laboratorio 4 Desafios\\Calculadora\\Calculadora\\Program.cs",
+              "RelativeToolTip": "Calculadora\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAwwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T01:46:41.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

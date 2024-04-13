@@ -1,0 +1,14 @@
+C:\Users\TF049\Documents\clases cursos C#\DatosEstudiantes\DatosEstudiantes\bin\Debug\DatosEstudiantes.exe.config
+C:\Users\TF049\Documents\clases cursos C#\DatosEstudiantes\DatosEstudiantes\bin\Debug\DatosEstudiantes.exe
+C:\Users\TF049\Documents\clases cursos C#\DatosEstudiantes\DatosEstudiantes\bin\Debug\DatosEstudiantes.pdb
+C:\Users\TF049\Documents\clases cursos C#\DatosEstudiantes\DatosEstudiantes\obj\Debug\DatosEstudiantes.csproj.AssemblyReference.cache
+C:\Users\TF049\Documents\clases cursos C#\DatosEstudiantes\DatosEstudiantes\obj\Debug\DatosEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\TF049\Documents\clases cursos C#\DatosEstudiantes\DatosEstudiantes\obj\Debug\DatosEstudiantes.exe
+C:\Users\TF049\Documents\clases cursos C#\DatosEstudiantes\DatosEstudiantes\obj\Debug\DatosEstudiantes.pdb
+C:\Users\TF049\Documents\clases cursos C#\Laboratorio 4 Desafios\DatosEstudiantes\DatosEstudiantes\bin\Debug\DatosEstudiantes.exe.config
+C:\Users\TF049\Documents\clases cursos C#\Laboratorio 4 Desafios\DatosEstudiantes\DatosEstudiantes\bin\Debug\DatosEstudiantes.exe
+C:\Users\TF049\Documents\clases cursos C#\Laboratorio 4 Desafios\DatosEstudiantes\DatosEstudiantes\bin\Debug\DatosEstudiantes.pdb
+C:\Users\TF049\Documents\clases cursos C#\Laboratorio 4 Desafios\DatosEstudiantes\DatosEstudiantes\obj\Debug\DatosEstudiantes.csproj.AssemblyReference.cache
+C:\Users\TF049\Documents\clases cursos C#\Laboratorio 4 Desafios\DatosEstudiantes\DatosEstudiantes\obj\Debug\DatosEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\TF049\Documents\clases cursos C#\Laboratorio 4 Desafios\DatosEstudiantes\DatosEstudiantes\obj\Debug\DatosEstudiantes.exe
+C:\Users\TF049\Documents\clases cursos C#\Laboratorio 4 Desafios\DatosEstudiantes\DatosEstudiantes\obj\Debug\DatosEstudiantes.pdb
